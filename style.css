@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#btn{
+    width:350px;
+    height: 350px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ p{
+    font-size: 30px;
+}
+.container{
+    width:100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: flex-start;
+    gap:50px;
+    align-items: center;
+    flex-direction: column;
+    background-color: pink;
+
+}
+#h{
+     width:280px;
+    height: 280px;
+   
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+#photo{
+     font-size: 100px;
+}
